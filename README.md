@@ -2,6 +2,8 @@
 
 Rokid Jungle JSAR Widget that works on Rokid AR Studio
 
+![icon](./icon.png)
+
 ## Open
 
 Type the following URL in JSAR runtime:
